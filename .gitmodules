@@ -1,0 +1,6 @@
+[submodule "examples/ships-log"]
+	path = examples/ships-log
+	url = https://github.com/ProjectOpenSea/ships-log
+[submodule "examples/cryptonfts-creatures"]
+	path = examples/cryptonfts-creatures
+	url = https://github.com/CryptoNFTs/cryptonfts-creatures
